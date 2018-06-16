@@ -1,0 +1,16 @@
+{
+  "name": "MasterNophish",
+  "description": "Android app",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
